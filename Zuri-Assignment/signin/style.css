@@ -1,0 +1,64 @@
+h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 22px;
+  text-align: center;
+  word-spacing: 1;
+  font-family: monospace;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  text-decoration: underline;
+  background-position: center;
+}
+textarea {
+  border-radius: 20px;
+  border-style: solid;
+}
+.loginbox p {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+.loginbox input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+submit-btn {
+  border: none;
+  outline: none;
+  background: #fb2525;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+}
+.loginbox input[type=" btn"] {
+  border: none;
+  outline: none;
+  height: 40px;
+  background: yellow;
+  color: #fff;
+  font-size: 18px;
+}
+p:hover {
+  color: red;
+}
+p:active {
+  color: red;
+}
+button {
+  background-color: black;
+  color: red;
+  padding: 14px 20px;
+  margin: 6px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+button :hover {
+  opacity: 0 8;
+}
