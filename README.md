@@ -1,1 +1,1 @@
-# assignments
+This Repository contains assignments from zuri 
